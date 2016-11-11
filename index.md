@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: Welcome to Integrated Media Solutions
+landing-title: Welcome to Integrated Media Systems
 description: Birmingham's leading residential and corporate tech headquarters.
 image:
 author:
