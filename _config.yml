@@ -12,7 +12,7 @@ email: info@imsysllc.com
 description: Automation. Security. Boardrooms. We do it all.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "https://andrewbanchich.gitlab.io" # the base hostname & protocol for your site
-author:
+author: Robert James
 street_address: 1500 1st Ave S
 city: Birmingham
 state: AL
